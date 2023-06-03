@@ -31,7 +31,7 @@ namespace KERN
 
         public static KERNPlugin Instance { get; set; }
 
-        public void OnPreInitialize()
+        public override void OnPreInitialized()
         {
             Path = PluginFolderPath;
         }
