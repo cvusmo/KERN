@@ -30,9 +30,9 @@ namespace KERN
 
             ColorsPatch.DeclareParts("KERN", (IEnumerable<string>)new List<string>()
             {
-                "LINAC: Accelerating Waveguide",
-                "LINAC: Detector",
-                "LINAC: Beam Generator"
+                "waveguide",
+                "collector",
+                "electrongun"
             });
             KERN.KERNPlugin.Instance = this;
             Harmony.CreateAndPatchAll(typeof(KERNPlugin).Assembly, (string)null);
