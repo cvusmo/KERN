@@ -15,7 +15,7 @@ namespace KERN.Modules
             base.OnStart(universalTime);
 
             module_Linac = new Module_Linac();
-            module_Linac.data_DeployableLinac.CurrentDeployState.SetValue(Data_Deployable.DeployState.Retracted);
+            module_Linac.dataDeployableLinac.IsDeployed.SetValue(module_Linac._dataDeployable.IsRetracted);
         }
 
         public override void OnUpdate(double universalTime, double deltaUniversalTime)
