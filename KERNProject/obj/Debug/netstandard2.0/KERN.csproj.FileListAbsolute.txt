@@ -1,0 +1,6 @@
+C:\Users\nicho\Source\Repos\KERN\KERNProject\obj\Debug\netstandard2.0\KERN.csproj.AssemblyReference.cache
+C:\Users\nicho\Source\Repos\KERN\KERNProject\obj\Debug\netstandard2.0\MyPluginInfo.cs
+C:\Users\nicho\Source\Repos\KERN\KERNProject\obj\Debug\netstandard2.0\KERN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Source\Repos\KERN\KERNProject\obj\Debug\netstandard2.0\KERN.AssemblyInfoInputs.cache
+C:\Users\nicho\Source\Repos\KERN\KERNProject\obj\Debug\netstandard2.0\KERN.AssemblyInfo.cs
+C:\Users\nicho\Source\Repos\KERN\KERNProject\obj\Debug\netstandard2.0\KERN.csproj.CoreCompileInputs.cache
