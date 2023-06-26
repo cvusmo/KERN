@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Runtime.CompilerServices.IgnoresAccessChecksToAttribute("Assembly-CSharp")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("KERN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Kerbin Council for Nuclear Research")]
